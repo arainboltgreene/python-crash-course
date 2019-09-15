@@ -12,9 +12,9 @@ print(drinker == 21)
 cat = ['happy', 'healthy']
 print("is cat happy OR healthy? i predict true")
 print('happy' in cat) or ('healthy' in cat)
+#true
 toppings = ['whipped cream', 'sprinkles', 'gummy bears']
 'sprinkles' in toppings
-# true
 
 # true
 
