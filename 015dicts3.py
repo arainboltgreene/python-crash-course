@@ -23,6 +23,7 @@ adrian = {
 
 people = [mike, lyla, adrian]
 
+
 for person in people:
     print(person)
 
@@ -51,4 +52,4 @@ favorite_places = {
     'mika': {'las vegas', 'vegan food places', 'salem'}
 }
 
-for person,
+# for person,
